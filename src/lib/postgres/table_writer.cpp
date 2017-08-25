@@ -3,7 +3,7 @@
 
 #include <tao/postgres/table_writer.hpp>
 
-#include <libpq-fe.h>
+#include <postgresql/libpq-fe.h>
 
 #include <tao/postgres/connection.hpp>
 #include <tao/postgres/result.hpp>
